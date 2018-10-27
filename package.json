@@ -1,0 +1,15 @@
+{
+  "name": "idspy",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "debug": "^4.1.0",
+    "plist": "^3.0.1"
+  },
+  "devDependencies": {
+    "kexec": "^3.0.0"
+  }
+}
